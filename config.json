@@ -1,0 +1,12 @@
+{
+  "animation": [
+		{
+			"text": "Text",
+			"timeout": 1000
+		},		
+    {
+			"text": "Animation",
+			"timeout": 1000
+		}
+	]
+}
